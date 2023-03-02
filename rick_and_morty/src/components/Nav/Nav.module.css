@@ -1,0 +1,9 @@
+.container{
+    padding: 0 1rem;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(25, 45, 100);
+    height: 100px;
+    align-items: center;
+}
+
